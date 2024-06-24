@@ -16,12 +16,13 @@ Youtube Sponsorship Talks Skip
 - `npm install`
 
 - `npm run build`
-  -create .env file with your groq api api key
 
-  ```NODE_ENV=development
-    GROQ_API_KEY= xxxxxxxx API KEY HERE xxxxxxxxx
+- create .env file with your groq api api key
 
-  ```
+```NODE_ENV=development
+  GROQ_API_KEY= xxxxxxxx API KEY HERE xxxxxxxxx
+
+```
 
 - Follow photo guide below to install unpacked extension at chrome (Select build folder inside skip_advert main folder)
 
